@@ -1,7 +1,7 @@
 <h1> Dav </h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noopener noreferrer">
-  <img src="vff.png" width=250px/>
+  <img src="vff.png" width=250px style="align: center/>
 </a>
 
 <!--
