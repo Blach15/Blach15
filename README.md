@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
 <img src="vff.png" width=250px/>
-![](vff.png)
 
 <!--
 **Blach15/Blach15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
