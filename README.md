@@ -1,8 +1,8 @@
 <h1> Hi there 👋 </h1>
 
-<img src="vff.png" width=250px/>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"> click here </a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"> 
+  <img src="vff.png" width=250px/>
+</a>
 
 <!--
 **Blach15/Blach15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
